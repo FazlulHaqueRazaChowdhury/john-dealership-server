@@ -1,0 +1,62 @@
+[
+  {
+    "img": "https://i.ibb.co/JnvkhZ7/29-297724-transparent-background-car-png-png-download-removebg-preview.png",
+    "name": "Mercedes Benz Class S",
+    "shortDesc": { "speed": "20", "gear": "Auto", "fuel": "Petrol" },
+    "quantity": "10",
+    "sold": "0",
+    "price": "1.5",
+    "userEmail": null,
+    "supplierName": "Sokina Trades"
+  },
+  {
+    "img": "https://i.ibb.co/2y8LV32/lambo-removebg-preview.png",
+    "name": "Lamborghini Aventador",
+    "shortDesc": { "speed": "30", "gear": "Auto", "fuel": "Petrol" },
+    "quantity": "20",
+    "sold": "0",
+    "price": "2.5",
+    "userEmail": null,
+    "supplierName": "Billu Trades"
+  },
+  {
+    "img": "https://i.ibb.co/YL0kBrX/2-removebg-preview.png",
+    "name": "Mustan GT",
+    "shortDesc": { "speed": "10", "gear": "Auto", "fuel": "Petrol" },
+    "quantity": "20",
+    "sold": "0",
+    "price": ".5",
+    "userEmail": null,
+    "supplierName": "Lulu-Mia Trades"
+  },
+  {
+    "img": "https://i.ibb.co/TbPRzmn/3-removebg-preview.png",
+    "name": "Lotous M4",
+    "shortDesc": { "speed": "25", "gear": "Auto", "fuel": "Petrol" },
+    "quantity": "10",
+    "sold": "0",
+    "price": "1.5",
+    "userEmail": null,
+    "supplierName": "Molom Chy Trades"
+  },
+  {
+    "img": "https://i.ibb.co/ZGLp8g3/4-removebg-preview.png",
+    "name": "Toyota Corza",
+    "shortDesc": { "speed": "10", "gear": "Auto", "fuel": "Petrol" },
+    "quantity": "10",
+    "sold": "0",
+    "price": "0.2",
+    "userEmail": null,
+    "supplierName": "Tel-Mia Trades"
+  },
+  {
+    "img": "https://i.ibb.co/0CpF5VG/5-removebg-preview.png",
+    "name": "Toyota Premio",
+    "shortDesc": { "speed": "20", "gear": "Auto", "fuel": "Petrol" },
+    "quantity": "35",
+    "sold": "0",
+    "price": "1.5M",
+    "userEmail": null,
+    "supplierName": "Pankha Khan"
+  }
+]
